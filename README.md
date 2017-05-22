@@ -1,6 +1,6 @@
 /*
 
-Exile 1.0.2 compatible custom difficulty override
+Exile 1.0.3 compatible custom difficulty override
 
 by [FPS]kuplion
 
